@@ -4,6 +4,8 @@ Neste projeto de aprendizado de máquina, utilizaremos dados de uma competição
 
 **Dataset**: [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 
+Além disso, utilizei pipelines, que têm como objetivo organizar as transformações feitas nos dados, tais como escalonamento, transformação de variáveis qualitativas em numéricas, etc.
+
 Métricas usadas:
 
 - MAE - Mean Absolute Error <br>
